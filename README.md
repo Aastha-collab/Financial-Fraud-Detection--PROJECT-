@@ -33,23 +33,23 @@
 ### EDA 
 
 - Conducted **scatter plots** of `TransactionAmount` vs `CustomerAge` to visualize unusual transactions.  
+<img width="961" height="444" alt="Screenshot (173)" src="https://github.com/user-attachments/assets/dcd8124d-76c9-4fa8-b8b1-b7e738437ae6" />
+
 - Used **boxplots** for categorical features (e.g., `CreditCard`, `Online`, `Student`) to identify feature-level anomalies.  
-- Observed that anomalies are rare (~5–6% of transactions), consistent with real-world fraud rates.
-
-![ER Diagram](images/er_diagram.png)
-
-![ER Diagram](images/er_diagram.png)
-
-![ER Diagram](images/er_diagram.png)
-
-![ER Diagram](images/er_diagram.png)
+<img width="662" height="787" alt="Screenshot (175)" src="https://github.com/user-attachments/assets/bfa57bd3-bd30-44c4-9df7-736cc2e3c65f" />
 
 ### ML 
 
-- **Scatter Plot:** `TransactionAmount` vs `Anomaly Score` highlighted fraudulent transactions in red.  
-- **Boxplots:** Showed anomalies concentrated in certain categorical groups, e.g., online transactions and specific user types.  
-- **Heatmap:** Illustrated deviations in numeric features across flagged transactions. 
+- **Scatter Plot:** `TransactionAmount` vs `Anomaly Score` highlighted fraudulent transactions in red.
+<img width="833" height="552" alt="Screenshot (176)" src="https://github.com/user-attachments/assets/a8a639c6-1761-4152-94f1-0157863f139b" />
 
+- **Boxplots:** Showed anomalies concentrated in certain categorical groups, e.g., online transactions and specific user types.
+
+<img width="1031" height="532" alt="Screenshot (177)" src="https://github.com/user-attachments/assets/68b0abfb-3f98-4474-9ae2-03a3762ecc5c" />
+
+
+- **Heatmap:** Illustrated deviations in numeric features across flagged transactions.
+<img width="910" height="533" alt="Screenshot (174)" src="https://github.com/user-attachments/assets/2b1dfcd2-cfda-4c6f-93cb-b84d70a7e314" />
 
 ## Conclusion from SQL Analysis
 
@@ -63,20 +63,15 @@
 
 ## ER Diagram 
 
-![ER Diagram](images/er_diagram.png)
+![ER Diagram](https://github.com/Aastha-collab/Financial-Fraud-Detection--PROJECT-/blob/main/ER%20diagram-%20Fraud%20Analysis.png)
 
 ## Conclusion from Power BI Visualization 
 
-![ER Diagram](images/er_diagram.png)
-
 <img width="1268" height="717" alt="Screenshot (170)" src="https://github.com/user-attachments/assets/4e656d8f-ffd5-4b81-ac97-4f827d2d96e6" />
 
+<img width="1269" height="713" alt="Screenshot (171)" src="https://github.com/user-attachments/assets/05987e4f-a7ed-4af1-aedb-7d625c8ed6fc" />
 
-![ER Diagram](images/er_diagram.png)
-
-![ER Diagram](images/er_diagram.png)
-
-## 
+<img width="1291" height="706" alt="Screenshot (172)" src="https://github.com/user-attachments/assets/84bed4df-1896-493c-99b7-fca052ff1f17" />
 
 ---
 
