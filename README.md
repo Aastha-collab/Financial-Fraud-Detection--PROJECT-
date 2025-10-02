@@ -51,13 +51,13 @@
 
 ## Conclusion from SQL Analysis
 
-*Total transactions analyzed: 2,500+ records with debit and credit operations.
-*Debit transactions had higher frequency, while credit transactions contributed larger amounts.
-*Online channel showed the highest average transaction value, signaling higher fraud risk.
-*Top 5 locations accounted for a majority of high-value transactions → potential hotspots (Fort Worth).
-*Average account balance by occupation- Doctor hold higher balances.
-*Login attempt analysis revealed that higher attempts often aligned with higher transaction values, a fraud red flag.
-*Location-based net balance change showed some cities as deposit-heavy (net positive) while others were spending-heavy (net negative).
+* Total transactions analyzed: 2,500+ records with debit and credit operations.
+* Debit transactions had higher frequency, while credit transactions contributed larger amounts.
+* Online channel showed the highest average transaction value, signaling higher fraud risk.
+* Top 5 locations accounted for a majority of high-value transactions → potential hotspots (Fort Worth).
+* Average account balance by occupation- Doctor hold higher balances.
+* Login attempt analysis revealed that higher attempts often aligned with higher transaction values, a fraud red flag.
+* Location-based net balance change showed some cities as deposit-heavy (net positive) while others were spending-heavy (net negative).
 
 ## ER Diagram 
 
