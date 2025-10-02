@@ -69,6 +69,9 @@
 
 ![ER Diagram](images/er_diagram.png)
 
+<img width="1268" height="717" alt="Screenshot (170)" src="https://github.com/user-attachments/assets/4e656d8f-ffd5-4b81-ac97-4f827d2d96e6" />
+
+
 ![ER Diagram](images/er_diagram.png)
 
 ![ER Diagram](images/er_diagram.png)
